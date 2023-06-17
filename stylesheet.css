@@ -15,7 +15,7 @@ body {
 body {
   position: relative;
   font-family: "Aquatico", sans-serif;
-  color: #a5712e;
+  color: #2e6da5;
   font-weight: bold;
   font-size: 2em;
   background-color: #11132D;
@@ -45,7 +45,7 @@ body {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background-color: #e2d9c5;
+  background-color: #c5d8e2;
   opacity: 0.9;
   border-radius: 20px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
@@ -124,7 +124,7 @@ body {
   font-size: 0.6em;
   font-weight: 900;
   color: #00a693;
-  padding-bottom: 40px;
+  margin-bottom: 150px;
   z-index: 1;
 }
 
