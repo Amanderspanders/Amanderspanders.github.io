@@ -121,12 +121,21 @@ body {
 .footer {
   margin-top: 20px;
   text-align: center;
+  text-decoration: none !important;
   font-family: "Quicksand", sans-serif;
   font-size: 0.6em;
   font-weight: 100;
   color: #0099db;
   margin-bottom: 150px;
   z-index: 1;
+}
+
+.footer a {
+  text-decoration: none !important;
+}
+
+.footer h3 {
+  margin-top: 20px;
 }
 
 .shooting-star {
