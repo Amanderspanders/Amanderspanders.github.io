@@ -121,9 +121,10 @@ body {
 .footer {
   margin-top: 20px;
   text-align: center;
+  font-family: "Quicksand", sans-serif;
   font-size: 0.6em;
-  font-weight: 900;
-  color: #00a693;
+  font-weight: 100;
+  color: #0099db;
   margin-bottom: 150px;
   z-index: 1;
 }
